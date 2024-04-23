@@ -1,0 +1,13 @@
+#divRelogio {
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    padding-inline: 10px;
+    margin: 0;
+}
+#divRelogio p {
+    color: yellow;
+    margin: 0;
+    font-weight: bold;
+    font-size: 4rem;
+}
